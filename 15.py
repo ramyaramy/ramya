@@ -1,9 +1,7 @@
+x,y=map(int,input().split(' '))
+print(x,"and",y,"are:")
 
-lower = int(input("Enter lower range: "))
-upper = int(input("Enter upper range: "))
-print(lower,"and",upper,"are:")
-
-for num in range(lower,upper + 1):
+for num in range(x+1,y):
 
 
            if (num % 2) == 0:
