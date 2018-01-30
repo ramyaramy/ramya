@@ -1,5 +1,5 @@
 x,y=map(int,input().split(' '))
-print(x,"and",y,"are:")
+print("even nums between ",x,y)
 
 for num in range(x+1,y):
 
