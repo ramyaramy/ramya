@@ -1,0 +1,7 @@
+list=['monday','tuesday','wednesday','thursday','friday']
+   lis1=['sunday','saturday']
+   day=input()
+   if day in list:
+       print("no")
+   else:
+       print("yes")
