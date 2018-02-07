@@ -1,4 +1,4 @@
-int(input())
+a=int(input())
 b=sorted('kabali')
 c=0
 for i in range(a):
