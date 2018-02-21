@@ -1,4 +1,4 @@
-#move and route acccording to value
+/*robot will move and route acccording to value*/
 
 #include <stdio.h>
 #include <conio.h>
